@@ -38,6 +38,3 @@ Estou cursando DS na [Proz](https://prozeducacao.com.br/).
 
 [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/KekelMusico) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/833080854850175017) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.last.fm/user/KekelMusico)
 
-
-
-
